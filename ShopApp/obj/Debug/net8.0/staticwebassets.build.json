@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gVE70oK+4LI96iFH/pjAiLNoqGw5XYYuVZtszFg/vdk=",
+  "Source": "ShopApp.Api",
+  "BasePath": "_content/ShopApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

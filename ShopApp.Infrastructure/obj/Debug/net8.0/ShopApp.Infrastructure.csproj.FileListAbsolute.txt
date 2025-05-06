@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\obj\Debug\net8.0\ShopApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\obj\Debug\net8.0\ShopApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\obj\Debug\net8.0\ShopApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\obj\Debug\net8.0\ShopApp.Infrastructure.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\obj\Debug\net8.0\ShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\bin\Debug\net8.0\ShopApp.Infrastructure.deps.json
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\bin\Debug\net8.0\ShopApp.Infrastructure.dll
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\bin\Debug\net8.0\ShopApp.Infrastructure.pdb
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\bin\Debug\net8.0\ShopApp.Core.dll
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\bin\Debug\net8.0\ShopApp.Database.dll
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\bin\Debug\net8.0\ShopApp.Core.pdb
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\bin\Debug\net8.0\ShopApp.Database.pdb
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\obj\Debug\net8.0\ShopApp..52198142.Up2Date
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\obj\Debug\net8.0\ShopApp.Infrastructure.dll
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\obj\Debug\net8.0\refint\ShopApp.Infrastructure.dll
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\obj\Debug\net8.0\ShopApp.Infrastructure.pdb
+C:\Users\LENOVO\source\repos\ShopApp\ShopApp.Infrastructure\obj\Debug\net8.0\ref\ShopApp.Infrastructure.dll
